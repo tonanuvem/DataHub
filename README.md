@@ -12,6 +12,10 @@
 
 ### https://www.digitalocean.com/community/tutorials/how-to-test-your-data-with-great-expectations
 
-## Casos de uso de para testes de dados
+## Casos de uso para testes de dados
 
 ### https://docs.greatexpectations.io/docs/reference/learn/data_quality_use_cases/dq_use_cases_lp
+
+## Caso de uso com integração do GX ao Airflow:
+
+### https://github.com/greatexpectationslabs/tutorial-gx-in-the-data-pipeline
