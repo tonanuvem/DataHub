@@ -12,6 +12,8 @@
 
 ### https://www.digitalocean.com/community/tutorials/how-to-test-your-data-with-great-expectations
 
+### docker pull greatexpectations/jupyter
+
 ## Casos de uso para testes de dados
 
 ### https://docs.greatexpectations.io/docs/reference/learn/data_quality_use_cases/dq_use_cases_lp
