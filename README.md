@@ -11,3 +11,7 @@
 ## Tutorial GX
 
 ### https://www.digitalocean.com/community/tutorials/how-to-test-your-data-with-great-expectations
+
+## Casos de uso de para testes de dados
+
+### https://docs.greatexpectations.io/docs/reference/learn/data_quality_use_cases/dq_use_cases_lp
