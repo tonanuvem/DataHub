@@ -1,6 +1,9 @@
-# DataHub
+# INTEGRAÇÃO : DataHub + Great eXpectations (GX)
 
-# Great eXpectations (GX)
+### https://datahubproject.io/docs/metadata-ingestion/integration_docs/great-expectations/
+
+
+# DataHub Referências:
 
 ## Docs com para rodar em docker quick start
 
@@ -9,6 +12,9 @@
 ## Source: importando um CSV
 
 ### https://datahubproject.io/docs/generated/ingestion/sources/csv-enricher
+
+
+# Great eXpectations (GX) Referências:
 
 ## LINK utilizado para subir o Great eXpectations (GX): responsável por testar e validar os dados
 
