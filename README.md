@@ -4,6 +4,7 @@
 
 ### https://datahubproject.io/integrations
 
+### https://atlan.com/know/ai-readiness/ai-ready-data/?ref=/openmetadata-vs-datahub/
 ----------------------
 
 # DataHub Referências:
