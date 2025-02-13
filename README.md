@@ -4,6 +4,8 @@
 
 ### https://datahubproject.io/integrations
 
+----------------------
+
 # DataHub Referências:
 
 ## Docs com para rodar em docker quick start
@@ -17,6 +19,12 @@
 ## Source: importando um CSV
 
 ### https://datahubproject.io/docs/generated/ingestion/sources/csv-enricher
+
+## Source: Kafka connect
+
+### https://datahubproject.io/docs/generated/ingestion/sources/kafka-connect
+
+----------------------
 
 
 # Great eXpectations (GX) Referências:
