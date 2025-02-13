@@ -2,12 +2,17 @@
 
 ### https://datahubproject.io/docs/metadata-ingestion/integration_docs/great-expectations/
 
+### https://datahubproject.io/integrations
 
 # DataHub Referências:
 
 ## Docs com para rodar em docker quick start
 
 ### https://datahubproject.io/docs/quickstart
+
+## Source: ingestão pela UI
+
+### https://datahubproject.io/docs/ui-ingestion/
 
 ## Source: importando um CSV
 
